@@ -1,0 +1,35 @@
+// Names, categories, origins, and ordering supplied in Our Brands.pdf.
+export const inhouseBrands = [
+  { name: "Adarsh", slug: "adarsh", index: 1 },
+  { name: "Anand", slug: "anand", index: 0 },
+  { name: "Meenu", slug: "meenu", index: 2 },
+  { name: "Ullasam", slug: "ullasam", index: 3 },
+];
+
+export const partnerBrands = [
+  { name: "Aashirvaad", slug: "aashirvaad", category: "Frozen Flat Breads", origin: "South India" },
+  { name: "Adarsh", slug: "adarsh", category: "Snacks", origin: "South India" },
+  { name: "Anand", slug: "anand", category: "Snacks & Frozen", origin: "South India" },
+  { name: "Anil", slug: "anil", category: "Vermicelli", origin: "Tamil Nadu, India" },
+  { name: "Annapoorna", slug: "annapoorna", category: "Masalas", origin: "Coimbatore" },
+  { name: "Ariya", slug: "ariya", category: "Food & Spices", origin: "Sri Lanka" },
+  { name: "Bedekar", slug: "bedekar", category: "Pickles & Frozen", origin: "Mumbai, India" },
+  { name: "BON", slug: "bon", category: "Masalas", origin: "South India" },
+  { name: "Brahmin’s", slug: "brahmins", category: "Rice, Flour & Spices", origin: "Kerala, India" },
+  { name: "Dhampur Green", slug: "dhampur-green", category: "Natural Jaggery", origin: "Delhi, India" },
+  { name: "Double Horse", slug: "double-horse", category: "Rice, Flour & Spices", origin: "Kerala, India" },
+  { name: "Gullón", slug: "gullon", category: "Cookies", origin: "Spain", label: "Gullon" },
+  { name: "ITC Limited", slug: "itc-limited", category: "Kitchen staples", origin: "South India" },
+  { name: "Iyengar Hot Hot", slug: "iyengar-hot-hot", category: "Masalas", origin: "Bangalore" },
+  { name: "Kwality", slug: "kwality", category: "Ice Cream", origin: "UAE" },
+  { name: "Laxminarayan", slug: "laxminarayan", category: "Snacks", origin: "Pune, India" },
+  { name: "Maggi", slug: "maggi", category: "Coconut Milk Powder", categoryLines: ["Coconut Milk", "Powder"], origin: null },
+  { name: "McVitie’s", slug: "mcvities", category: "Cookies", origin: "UK" },
+  { name: "Meenu", slug: "meenu", category: "Frozen Fish and Seafood", origin: "South India" },
+  { name: "Nana Shetty Masala", slug: "nana-shetty-masala", category: "Masalas", origin: "South India" },
+  { name: "Nirapara", slug: "nirapara", category: "Rice, Flour & Spices", origin: "Kerala, India" },
+  { name: "Pavizham", slug: "pavizham", category: "Matta Rice", origin: "Kerala" },
+  { name: "Priyagold", slug: "priyagold", category: "Cookies", origin: "India" },
+  { name: "Sakthi", slug: "sakthi", category: "Masalas", origin: "Tamil Nadu, India" },
+  { name: "Ustad Banne Nawab’s", slug: "ustad-banne-nawabs", category: "Masalas", origin: "Hyderabad, India" },
+];
